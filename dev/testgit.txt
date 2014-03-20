@@ -1,5 +1,9 @@
 testing git..
 
+<<<<<<< HEAD
 haha best one dude
 
 ok one more test
+=======
+haha dude best one
+>>>>>>> 24bf220739604dceed3065e53710180c1359654a
