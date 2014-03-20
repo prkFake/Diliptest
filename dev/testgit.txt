@@ -1,3 +1,7 @@
 testing git..
 New test
+<<<<<<< HEAD
 new test3
+=======
+new test2
+>>>>>>> FETCH_HEAD
